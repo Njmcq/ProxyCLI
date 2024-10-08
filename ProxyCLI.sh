@@ -263,7 +263,7 @@ delete_proxy() {
 
 show_menu() {
     echo "ProxyCLI"
-    echo "v2.1.0 (21.09.2024)"
+    echo "v2.0.0 (08.10.2024)"
     echo "----------------------------"
     echo "1. Check proxy status"
     echo "2. Add proxy settings"
